@@ -34,7 +34,7 @@ The **Seat Allocation System** for KEA aims to provide a transparent process for
 - **15,622** candidates appeared for the exam, with **7,144** MCA seats available.
 - **1st Round:** 4,450 admitted.
 - **2nd Round:** 380 admitted.
-- **Final Round:** 130 admitted.
+- **Final Round:** 136 admitted.
 - Total seats allocated: **4,966**.
 
 ### Conclusion
