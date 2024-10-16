@@ -41,3 +41,8 @@ The **Seat Allocation System** for KEA aims to provide a transparent process for
 This KEA seat allocation system streamlines the admission process while ensuring fairness and transparency, balancing merit with category reservations.
 
 For more information, visit: [KEA Official Website](https://cetonline.karnataka.gov.in/kea/)
+
+### Sample allocation result output
+
+![Screenshot from 2024-10-16 17-08-25](https://github.com/user-attachments/assets/99c8f33a-78d7-4b95-afa0-14dc3ce65b3e)
+
