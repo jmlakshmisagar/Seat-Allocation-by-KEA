@@ -4,24 +4,40 @@
 
 # Seat Allocation by Karnataka Examination Authority
 
+## Documentation
+For more details, refer to the [Documentation Overview](https://docs.google.com/document/d/1Hvexg4bYJE3dR4D8qfbN8_UiG5Wa8zVPIgNJe1SioUs/edit?usp=sharing).
+
 ## Description
-This project is a seat allocation system for students based on the Karnataka Examination Authority (KEA) rules. It assigns seats to candidates according to their rank, preferred college, category, and priority. The goal is to make the seat allocation process clear and efficient, helping students get into their chosen colleges based on merit.
+This project is a seat allocation system that assigns seats to students based on their rank, preferred college, category, and priority according to Karnataka Examination Authority (KEA) rules, streamlining the process based on merit.
 
 ## Overview
-The seat allocation process follows these steps:
+The **Seat Allocation System** for KEA aims to provide a transparent process for assigning college seats to students, particularly for the MCA course. The system uses key parameters like student rank, college preferences, category status, and seat availability for allocation.
 
-1. **Input Data:**
-   - Candidate details including CET number, name, marks, rank, priority, and college code.
-   - College seat availability data for various categories.
+### Key Features:
 
-2. **Prioritization:**
-   - Candidates are prioritized based on their ranks and the priority levels they have assigned to their preferred colleges.
+1. **Merit-Based Allocation:** 
+   - Operates on a First Come First Serve basis, prioritizing students with higher ranks.
 
-3. **Seat Allocation Logic:**
-   - For each candidate:
-     - Check the availability of seats in the preferred college for the candidate's category.
-     - Allocate a seat if available, considering:
-       - The candidate's rank (higher ranks get preference).
-       - The priority of the college selected by the candidate.
-       - The category of the candidate (e.g., 1AG, 2AG, GM, GMH, SCG, STH).
+2. **Multi-Factor Evaluation:** 
+   - Evaluates rank, category (e.g., 1AG, 2AG, GM), and college preferences during allocation.
 
+3. **Data Management:** 
+   - Requires comprehensive data from students (personal details, rank, category, preferred colleges) and colleges (names, IDs, available courses).
+
+4. **Step-by-Step Allocation Process:** 
+   - Involves multiple rounds of seat filling based on candidate priority and eligibility.
+
+5. **Outcome Documentation:** 
+   - Generates reports on allocated seats and cutoff lists for each category.
+
+### Performance Insights (2023 Data):
+- **15,622** candidates appeared for the exam, with **7,144** MCA seats available.
+- **1st Round:** 4,450 admitted.
+- **2nd Round:** 380 admitted.
+- **Final Round:** 130 admitted.
+- Total seats allocated: **4,966**.
+
+### Conclusion
+This KEA seat allocation system streamlines the admission process while ensuring fairness and transparency, balancing merit with category reservations.
+
+For more information, visit: [KEA Official Website](https://cetonline.karnataka.gov.in/kea/)
