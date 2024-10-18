@@ -2,7 +2,7 @@
     <img src="https://github.com/user-attachments/assets/46a5582d-64bb-4943-80eb-0b92d54740ec" alt="Karnataka Examination Authority" width="150"/>
 </p>
 
-# Seat Allotment Process by Karnataka Examination Authority
+# Seat Allotment Process
 
 ## Documentation
 For more details, refer to the [Documentation Overview](https://docs.google.com/document/d/1Hvexg4bYJE3dR4D8qfbN8_UiG5Wa8zVPIgNJe1SioUs/edit?usp=sharing).
